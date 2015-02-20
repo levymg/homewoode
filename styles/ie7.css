@@ -1,0 +1,21 @@
+
+
+#right_hp { width: 385px; float: right; margin-top: 50px; }
+		
+#container_sub { background: url(../images/container-sub-bk.jpg) top left no-repeat; margin: 0 auto; width: 910px; min-height: 700px; border-bottom: 1px solid #ccc; position: relative; clear: none; overflow: inherit; padding-bottom: 2em; margin-bottom: 50px;}
+
+#container_sub #main_nav { height: 68px; }
+
+#container #main_nav ul.sf-menu li ul {margin: 0; padding: 0; padding-top:6px !important; z-index:999;}
+#container #main_nav li img {z-index:1;position:relative;}
+
+ol#address, #container_sub ol#address { margin: 110px 0 0 30px; border-left: 5px solid #ff9933; padding-left: .5em; width: 170px;}
+	ol#address li { list-style: none; font: .687em/1 Verdana, Arial, Helvetica, sans-serif; padding: .4em;}
+	ol#address li#city_state_zip { border-bottom: 1px solid #ccc; padding-bottom: .75em; }
+	ol#address li#toll_free_number { padding-top: .75em; }
+
+div#right_sub {margin-bottom:20px;}
+
+#container_sub ol.columns {overflow:visible; }
+#container_sub ol.gallery {overflow:visible; }
+	#container_sub ol.gallery li img { display: block; }
