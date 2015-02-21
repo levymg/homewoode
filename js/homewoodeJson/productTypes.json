@@ -1,0 +1,31 @@
+// PRODUCT TYPES
+[
+  {
+    "id"   : 0,
+    "type" : "Button Operators"
+  },
+  {
+    "id"   : 1,
+    "type" : "Selector Switches"
+  },
+  {
+    "id"   : 2,
+    "type" : "Push Buttons"
+  },
+  {
+    "id"   : 3,
+    "type" : "Light Units"
+  },
+  {
+    "id"   : 4,
+    "type" : "Legend Plates"
+  },
+  {
+    "id"   : 5,
+    "type" : "Misc"
+  },
+  {
+    "id"   : 6,
+    "type" : "Parts & Accessories"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id"              : 0,
+    "product_type_id" : 0,
+    "category"        : "Flush Push Button Operators"
+  },
+  {
+    "id"              : 1,
+    "product_type_id" : 0,
+    "category"        : "Extended Push Button Operators"
+  },
+  {
+    "id"              : 2,
+    "product_type_id" : 1,
+    "category"        : "Flush Selector Switches"
+  },
+  {
+    "id"              : 3,
+    "product_type_id" : 1,
+    "category"        : "Extended Operator Selector Switches"
+  },
+  {
+    "id"              : 4,
+    "product_type_id" : 2,
+    "category"        : "Select-O-Push Button"
+  },
+  {
+    "id"              : 5,
+    "product_type_id" : 3,
+    "category"        : "Indicating Light Units"
+  },
+  {
+    "id"              : 6,
+    "product_type_id" : 4,
+    "category"        : "Westlok Legend Plates"
+  },
+  {
+    "id"              : 7,
+    "product_type_id" : 5,
+    "category"        : "4-Way Joystick Operator"
+  },
+  {
+    "id"              : 8,
+    "product_type_id" : 5,
+    "category"        : "Push-Pull Control Units"
+  },
+  {
+    "id"              : 9, 
+    "product_type_id" : 6,
+    "category"        : "Contact Blocks for Flush Push Button Operators"
+  },
+  {
+    "id"              : 10,
+    "product_type_id" : 6,
+    "category"        : "Lens for Indicating Light Units"
+  },
+  {
+    "id"              : 11,
+    "product_type_id" : 6,
+    "category"        : "Replacement Bulbs"
+  },
+  {
+    "id"              : 12,
+    "product_type_id" : 6,
+    "category"        : "Accessories for Flush Push Button Operators"
+  },
+  {
+    "id"              : 13,
+    "product_type_id" : 6,
+    "category"        : "Accesories for Extended Push Button Operators"
+  }
+]

@@ -1,0 +1,2474 @@
+[
+  {
+    "id"                  : 0,
+    "product_category_id" : 0,
+    "type"                : "Flush Push Button Operator",
+    "product"             : "Full Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only) <br> Colors: All are included (Black, Red, Green, Yellow, Blue, Gray, Brown)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "All colors",
+        "catalog_num" : "OT2B4",
+        "price"       : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 1,
+    "product_category_id" : 0,
+    "type"                : "Flush Push Button Operator",
+    "product"             : "No Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT2C1",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT2C2",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Green",
+        "catalog_num" : "OT2C3",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Yellow",
+        "catalog_num" : "OT2C4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "id"                  : 2,
+    "product_category_id" : 0,
+    "type"                : "Flush Push Button Operator",
+    "product"             : "Mushroom Head",
+    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT2D1",
+        "price"       : 144.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT2D2",
+        "price"       : 144.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Green",
+        "catalog_num" : "OT2D3",
+        "price"       : 144.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Yellow",
+        "catalog_num" : "OT2D4",
+        "price"       : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 3,
+    "product_category_id" : 0,
+    "type"                : "Flush Push Button Operator",
+    "product"             : "Cylinder Lock (Key Removable in Locked Position Only)",
+    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Out",
+        "catalog_num" : "OT2E8",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "In",
+        "catalog_num" : "OT2F8",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "In or Out",
+        "catalog_num" : "OT2G8",
+        "price"       : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 4,
+    "product_category_id" : 0,
+    "type"                : "Flush Push Button Operator",
+    "product"             : "Cylinder Lock (Key Removable in All Positions)",
+    "description"         : "Operator only without Contact Block or Legend Plate (Cover Mounting Only)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Out",
+        "catalog_num" : "OT2E9",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "In",
+        "catalog_num" : "OT2F9",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "In or Out",
+        "catalog_num" : "OT2G9",
+        "price"       : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 5,
+    "product_category_id" : 0,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "product"             : "Single-Circuit Contact Block",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "1 NO",
+        "catalog_num" : "OT2B",
+        "price"       : 36.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "1 NC",
+        "catalog_num" : "OT2D",
+        "price"       : 36.00
+      }
+    ]
+  }
+  {
+    "id"                  : 6,
+    "product_category_id" : 0,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "product"             : "Double-Circuit Contact Block",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "2 NO",
+        "catalog_num" : "OT2M",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "2 NC",
+        "catalog_num" : "OT2N",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "1 NO, 1 NC",
+        "catalog_num" : "OT2A",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "1 NO, 1 NC Make Before Break",
+        "catalog_num" : "OT2V",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 4,
+        "name"        : "2 NO Sequence One Pole Makes Before Other",
+        "catalog_num" : "OT2X",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 5,
+        "name"        : "1 NO, 1 NC Series Wired",
+        "catalog_num" : "OT2AS",
+        "price"       : 116.00
+      },
+      {
+        "id"          : 6,
+        "name"        : "1 NO, 1 NC Parallel Wired",
+        "catalog_num" : "OT2AP",
+        "price"       : 116.00
+      },
+      {
+        "id"          : 7,
+        "name"        : "2 NO, 2 NC Series Wired",
+        "catalog_num" : "OT2MS",
+        "price"       : 116.00
+      },
+      {
+        "id"          : 8,
+        "name"        : "2 NO, 2 NC Parallel Wired",
+        "catalog_num" : "OT2MP",
+        "price"       : 116.00
+      }
+    ]
+  },
+  {
+    "id"                  : 7,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "Half Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT1A1",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT1A2",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Green",
+        "catalog_num" : "OT1A3",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Yellow",
+        "catalog_num" : "OT1A4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "id"                  : 8,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "Full Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT1B1",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT1B2",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Green",
+        "catalog_num" : "OT1B3",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Yellow",
+        "catalog_num" : "OT1B4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "id"                  : 9,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "No Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT1C1",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT1C2",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Green",
+        "catalog_num" : "OT1C3",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Yellow",
+        "catalog_num" : "OT1C4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "id"                  : 10,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "Mushroom Head",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Black",
+        "catalog_num" : "OT1D1",
+        "price"       : 144.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Red",
+        "catalog_num" : "OT1D2",
+        "price"       : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 11,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "Cylinder Lock - Key Removable Locked Position Only",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Lock-out (min. quantity 10)",
+        "catalog_num" : "OT1E8",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Lock-in",
+        "catalog_num" : "OT1F8",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Lock-in-out",
+        "catalog_num" : "OT1G8",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Lock-in-out-mid",
+        "catalog_num" : "OT1H8",
+        "price"       : 405.00
+      }
+    ]
+  }
+  {
+    "id"                  : 12,
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "product"             : "Cylinder Lock - Key Removable All Positions",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "Lock-out (min. quantity 10)",
+        "catalog_num" : "OT1E9",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "Lock-in",
+        "catalog_num" : "OT1F9",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "Lock-in-out",
+        "catalog_num" : "OT1G9",
+        "price"       : 405.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "Lock-in-out-mid",
+        "catalog_num" : "OT1H9",
+        "price"       : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 13,
+    "product_category_id" : 1,
+    "type"                : "Contact Block for Extended Operators",
+    "product"             : "Single-Block Contact Block",
+    "description"         : "Available in 1 NO and 1 NC",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "1 NO",
+        "catalog_num" : "OT1LA Box",
+        "price"       : 36.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "1 NO",
+        "catalog_num" : "OT1AA Cover",
+        "price"       : 36.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "1 NC",
+        "catalog_num" : "OT1LB Box",
+        "price"       : 36.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "1 NC",
+        "catalog_num" : "OT1AB Cover",
+        "price"       : 36.00
+      },
+      {
+        "id"          : 4,
+        "name"        : "1 NO, 1 NC",
+        "catalog_num" : "OT1L Box",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 5,
+        "name"        : "1 NO, 1 NC",
+        "catalog_num" : "OT1A Cover",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 6,
+        "name"        : "1 NO, 1 NC Make Before Break",
+        "catalog_num" : "OT1V Box",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 7,
+        "name"        : "1 NO, 1 NC Make Before Break",
+        "catalog_num" : "OT1B Cover",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "id"                  : 14,
+    "product_category_id" : 1,
+    "type"                : "Contact Block for Extended Operators",
+    "product"             : "Double-Block Contact Block",
+    "description"         : "Available in 2 NO and 2 NC",
+    "items"               : [
+      {
+        "id"          : 0,
+        "name"        : "2 NO",
+        "catalog_num" : "OT1WA Box",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 1,
+        "name"        : "2 NO",
+        "catalog_num" : "OT1CA Cover",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 2,
+        "name"        : "2 NC",
+        "catalog_num" : "OT1WB Box",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 3,
+        "name"        : "2 NC",
+        "catalog_num" : "OT1CB Cover",
+        "price"       : 72.00
+      },
+      {
+        "id"          : 4,
+        "name"        : "2 NO, 2 NC",
+        "catalog_num" : "OT1W Box",
+        "price"       : 154.00
+      },
+      {
+        "id"          : 5,
+        "name"        : "2 NO, 2 NC",
+        "catalog_num" : "OT1C Cover",
+        "price"       : 154.00
+      },
+      {
+        "id"          : 6,
+        "name"        : "2 NO, 2 NC Make Before Break",
+        "catalog_num" : "OT1X Box",
+        "price"       : 154.00
+      },
+      {
+        "id"          : 7,
+        "name"        : "2 NO, 2 NC Make Before Break",
+        "catalog_num" : "OT1D Cover",
+        "price"       : 154.00
+      },
+      {
+        "id"          : 8,
+        "name"        : "2 NO, 2NC Sequence One Pole Make Before Other",
+        "catalog_num" : "OT1E Cover",
+        "price"       : 154.00
+      },
+      {
+        "id"          : 8,
+        "name"        : "4 NO, 4 NC Tandem Block (Not for Pull Box)",
+        "catalog_num" : "OT1F Cover",
+        "price"       : 308.00
+      }
+    ]
+  },
+  {
+    "id"                  : 15,
+    "product_category_id" : 2,
+    "type"                : "Standard Handle",
+    "product"             : "Maintained",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2S1",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2S2",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2S4",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 3,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2S6",
+        "price"           : 105.00
+      }
+    ]
+  },
+  {
+    "id"                  : 16,
+    "product_category_id" : 2,
+    "type"                : "Standard Handle",
+    "product"             : "Spring Return Right to Left",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2I1",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 17,
+    "product_category_id" : 2,
+    "type"                : "Standard Handle",
+    "product"             : "Spring Return Left and Right to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2V2",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2V4",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2V6",
+        "price"           : 144.00
+      }
+    ]
+  }
+  {
+    "id"                  : 18,
+    "product_category_id" : 2,
+    "type"                : "Standard Handle",
+    "product"             : "Spring Return Right to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2Z2",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2Z4",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2Z6",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 19,
+    "product_category_id" : 2,
+    "type"                : "Standard Handle",
+    "product"             : "Spring Return Left to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2W2",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2W4",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2W6",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 20,
+    "product_category_id" : 2,
+    "type"                : "Lever Handle",
+    "product"             : "Maintained",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2S1W",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2S2W",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2S4W",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2S6W",
+        "price"           : 105.00
+      }
+    ]
+  },
+  {
+    "id"                  : 21,
+    "product_category_id" : 2,
+    "type"                : "Lever Handle",
+    "product"             : "Spring Return Right to Left",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2I1W",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 22,
+    "product_category_id" : 2,
+    "type"                : "Lever Handle",
+    "product"             : "Spring Return Left and Right to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2V2W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2V4W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2V6W",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 23,
+    "product_category_id" : 2,
+    "type"                : "Lever Handle",
+    "product"             : "Spring Return Right to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2Z2W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2Z4W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2Z6W",
+        "price"           : 144.00
+      }
+    ]
+  }
+  {
+    "id"                  : 24,
+    "product_category_id" : 2,
+    "type"                : "Lever Handle",
+    "product"             : "Spring Return Left to Center",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2W2W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2W2W",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2W2W",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 25,
+    "product_category_id" : 2,
+    "type"                : "Cylinder Lock",
+    "product"             : "Lock in All Positions",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2K1",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2K2",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2K4",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2K6",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 26,
+    "product_category_id" : 2,
+    "type"                : "Cylinder Lock",
+    "product"             : "Lock in Left Positions",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "2",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT2Y1",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 27,
+    "product_category_id" : 2,
+    "type"                : "Cylinder Lock",
+    "product"             : "Lock in Center Position",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2Y2",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2Y4",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2Y6",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 28,
+    "product_category_id" : 2,
+    "type"                : "Cylinder Lock",
+    "product"             : "Lock in Center and Right Positions",
+    "items"               : [
+      {
+        "id"              : 0,
+        "position"        : "3",
+        "cam_num"         : "2",
+        "catalog_num"     : "OT2O2",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 1,
+        "position"        : "3",
+        "cam_num"         : "4",
+        "catalog_num"     : "OT2O2",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 2,
+        "position"        : "3",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT2O2",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 29,
+    "product_category_id" : 3,
+    "type"                : "2 Position",
+    "product"             : "Standard",
+    "items"               : [
+      {
+        "id"              : 0,
+        "operation"       : "Maintained",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1S1",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 1,
+        "operation"       : "Spring Return Right to Left",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1I1",
+        "price"           : 144.00
+      }
+    ]
+  }
+  {
+    "id"                  : 30,
+    "product_category_id" : 3,
+    "type"                : "2 Position",
+    "product"             : "Cylinder Lock",
+    "items"               : [
+      {
+        "id"              : 0,
+        "operation"       : "Lock All Positions",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1K1",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 1,
+        "operation"       : "Lock Left Position",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1Y1",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 31,
+    "product_category_id" : 3,
+    "type"                : "3 Position",
+    "product"             : "Standard",
+    "items"               : [
+      {
+        "id"              : 0,
+        "operation"       : "Maintained",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1S3",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 1,
+        "operation"       : "Maintained",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT1S6",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 2,
+        "operation"       : "Maintained",
+        "cam_num"         : "7",
+        "catalog_num"     : "OT1S7",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 3,
+        "operation"       : "Maintained",
+        "cam_num"         : "9",
+        "catalog_num"     : "OT1S9",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 4,
+        "operation"       : "Maintained",
+        "cam_num"         : "12",
+        "catalog_num"     : "OT1S0",
+        "price"           : 105.00
+      },
+      {
+        "id"              : 5,
+        "operation"       : "Spring Return Rt. & Lft. to Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1V1",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 6,
+        "operation"       : "Spring Return Rt. To Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1Z1",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 7,
+        "operation"       : "Spring Return Lt. To Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1W1",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "id"                  : 32,
+    "product_category_id" : 3,
+    "type"                : "3 Position",
+    "product"             : "Cylinder Lock",
+    "items"               : [
+      {
+        "id"              : 0,
+        "operation"       : "Lock All Positions",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1K3",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 1,
+        "operation"       : "Lock Center Position",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1Y3",
+        "price"           : 405.00
+      },
+      {
+        "id"              : 2,
+        "operation"       : "Lock Ctr. & Rt. Positions",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1O3",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "id"                  : 33,
+    "product_category_id" : 4,
+    "type"                : "Select-O-Push",
+    "product"             : "Two-Position Half Stroke Spring Return",
+    "items"               : [
+      {
+        "id"              : 0,
+        "type"            : "Operator Only",
+        "catalog_num"     : "OT1M1",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 1,
+        "type"            : "Operator Only",
+        "catalog_num"     : "OT1M1Z",
+        "price"           : 144.00
+      },
+      {
+        "id"              : 2,
+        "type"            : "Complete Units",
+        "catalog_num"     : "OT1M1C",
+        "price"           : 240.00
+      },
+      {
+        "id"              : 3,
+        "type"            : "Complete Units",
+        "catalog_num"     : "OT1M1ZC",
+        "price"           : 240.00
+      }
+    ]
+  },
+  {
+    "id"                  : 34,
+    "product_category_id" : 4,
+    "type"                : "Select-O-Push",
+    "product"             : "Two-Position Full Stroke",
+    "items"               : [
+      {
+        "id"              : 0,
+        "type"            : "Complete Units",
+        "catalog_num"     : "OT1N1C",
+        "price"           : 288.00
+      }
+    ]
+  },
+  {
+    "id"                  : 35,
+    "product_category_id" : 4,
+    "type"                : "Select-O-Push",
+    "product"             : "Three-Position Half Stroke",
+    "items"               : [
+      {
+        "id"              : 0,
+        "type"            : "Complete Units",
+        "catalog_num"     : "OT1M8C",
+        "price"           : 240.00
+      }
+    ]
+  }
+  {
+    "id"                  : 36,
+    "product_category_id" : 4,
+    "type"                : "Select-O-Push",
+    "product"             : "Three-Position Full Stroke",
+    "items"               : [
+      {
+        "id"              : 0,
+        "type"            : "Complete Units",
+        "catalog_num"     : "OT1N8C",
+        "price"           : 288.00
+      }
+    ]
+  },
+  {
+    "id"                  : 37,
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "product"             : "Standard Transformer Type Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "575/60",
+        "catalog_num"     : "OTTJ",
+        "price"           : 232.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF",
+        "price"           : 232.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG",
+        "price"           : 232.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH",
+        "price"           : 232.00
+      }
+    ]
+  },
+  {
+    "id"                  : 38,
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "product"             : "Standard Full Voltage Type Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "32/48/AC, DC",
+        "catalog_num"     : "OTFE",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF",
+        "price"           : 180.00
+      },
+      {
+        "id"              : 6,
+        "voltage"         : "240/AC, DC",
+        "catalog_num"     : "OTSFG",
+        "price"           : 180.00
+      }
+    ]
+  },
+  {
+    "id"                  : 39,
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "product"             : "Push-to-Test Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC",
+        "catalog_num"     : "OT3PA",
+        "price"           : 495.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OT3PF",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "240/60",
+        "catalog_num"     : "OT3PG",
+        "price"           : null
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OT3PH",
+        "price"           : 495.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OT3PJ",
+        "price"           : 495.00
+      }
+    ]
+  },
+  {
+    "id"                  : 40,
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "product"             : "Standard Transformer Type Light Units - Clear",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF1",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH1",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ1",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF1",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG1",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH1",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 41,
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "product"             : "Standard Transformer Type Light Units - Red",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF2",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH2",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ2",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF2",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG2",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH2",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 42,
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "product"             : "Standard Transformer Type Light Units - Green",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF3",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH3",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ3",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF3",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG3",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH3",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 43,
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "product"             : "Standard Transformer Type Light Units - Amber",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF4",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH4",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ4",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF4",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG4",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH4",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 44,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Transformer Type Light Units - Blue",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF5",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH5",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ5",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF5",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG5",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH5",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 45,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Transformer Type Light Units - Opal",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF",
+        "price"           : null
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH",
+        "price"           : null
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ6",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF6",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG6",
+        "price"           : 252.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH6",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "id"                  : 46,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Clear",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA1",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB1",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC1",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD1",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE1",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF1",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 47,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Red",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA2",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB2",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC2",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD2",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE2",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF2",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 48,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Green",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA3",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB3",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC3",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD3",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE3",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF3",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 49,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Amber",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA4",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB4",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC4",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD4",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE4",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF4",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 50,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Blue",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA5",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB5",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC5",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD5",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE5",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF5",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 51,
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "product"             : "Standard Full Voltage Type Light Units - Opal",
+    "description"         : "Unit complete with lens",
+    "items"               : [
+      {
+        "id"              : 0,
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA6",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 1,
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB6",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 2,
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC6",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 3,
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD6",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 4,
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE6",
+        "price"           : 200.00
+      },
+      {
+        "id"              : 5,
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF6",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "id"                  : 52,
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "product"             : "For Push Button Units",
+    "items"               : [
+      {
+        "id"              : 0,
+        "making"          : "Blank (Standard Black)",
+        "plate_num"       : "187P001H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 1,
+        "making"          : "Start",
+        "plate_num"       : "187P002H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 2,
+        "making"          : "Stop (Black)",
+        "plate_num"       : "187P003H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 3,
+        "making"          : "Stop (Red)",
+        "plate_num"       : "187P004H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 4,
+        "making"          : "Reset",
+        "plate_num"       : "187P005H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 5,
+        "making"          : "Forward",
+        "plate_num"       : "187P006H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 6,
+        "making"          : "Reverse",
+        "plate_num"       : "187P007H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 7,
+        "making"          : "Fast",
+        "plate_num"       : "187P008H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 8,
+        "making"          : "Slow",
+        "plate_num"       : "187P009H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 9,
+        "making"          : "On",
+        "plate_num"       : "187P010H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 10,
+        "making"          : "Off (Black)",
+        "plate_num"       : "187P011H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 11,
+        "making"          : "Off (Red)",
+        "plate_num"       : "187P012H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 12,
+        "making"          : "Inch",
+        "plate_num"       : "187P013H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 13,
+        "making"          : "Jog",
+        "plate_num"       : "187P014H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 14,
+        "making"          : "Raise",
+        "plate_num"       : "187P015H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 15,
+        "making"          : "Lower",
+        "plate_num"       : "187P016H01",
+        "price"           : 27.00
+      }
+      {
+        "id"              : 16,
+        "making"          : "Up",
+        "plate_num"       : "187P017H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 17,
+        "making"          : "Down",
+        "plate_num"       : "187P018H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 18,
+        "making"          : "Open",
+        "plate_num"       : "187P019H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 19,
+        "making"          : "Close",
+        "plate_num"       : "187P020H01",
+        "price"           : 27.00
+      },
+       {
+        "id"              : 20,
+        "making"          : "High",
+        "plate_num"       : "187P021H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 21,
+        "making"          : "Low",
+        "plate_num"       : "187P022H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 22,
+        "making"          : "Run",
+        "plate_num"       : "187P023H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 23,
+        "making"          : "Emergency Stop",
+        "plate_num"       : "187P024H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 24,
+        "making"          : "In",
+        "plate_num"       : "187P025H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 25,
+        "making"          : "Out",
+        "plate_num"       : "187P026H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 26,
+        "making"          : "Safe",
+        "plate_num"       : "187P027H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 27,
+        "making"          : "Ready",
+        "plate_num"       : "187P028H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 28,
+        "making"          : "Faster",
+        "plate_num"       : "187P029H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 29,
+        "making"          : "Slower",
+        "plate_num"       : "187P030H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 30,
+        "making"          : "Blank (Anodized)",
+        "plate_num"       : "187P055H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 31,
+        "making"          : "Blank (Standard Red)",
+        "plate_num"       : "187P056H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 32,
+        "making"          : "Blank (Oversize Black)",
+        "plate_num"       : "187P057H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 33,
+        "making"          : "Start (Oversize)",
+        "plate_num"       : "187P058H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 34,
+        "making"          : "Stop (Oversize)",
+        "plate_num"       : "187P059H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 35,
+        "making"          : "Blank (Anodized Oversize)",
+        "plate_num"       : "187P060H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 36,
+        "making"          : "Blank (Oversize Red)",
+        "plate_num"       : "187P061H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 37,
+        "making"          : "Blank (King-size Black)",
+        "plate_num"       : "187P062H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 38,
+        "making"          : "Blank (King-size Red)",
+        "plate_num"       : "187P063H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "id"                  : 53,
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "product"             : "For Selector Switches",
+    "items"               : [
+      {
+        "id"              : 0,
+        "making"          : "Forward - Reverse",
+        "plate_num"       : "187P031H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 1,
+        "making"          : "Hand-Auto",
+        "plate_num"       : "187P032H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 2,
+        "making"          : "High-Low",
+        "plate_num"       : "187P033H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 3,
+        "making"          : "Inch-Run",
+        "plate_num"       : "187P034H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 4,
+        "making"          : "Jog-Run",
+        "plate_num"       : "187P035H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 5,
+        "making"          : "Off-Run",
+        "plate_num"       : "187P036H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 6,
+        "making"          : "On-Off",
+        "plate_num"       : "187P037H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 7,
+        "making"          : "Open-Close",
+        "plate_num"       : "187P038H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 8,
+        "making"          : "Reverse-Forward",
+        "plate_num"       : "187P039H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 9,
+        "making"          : "Safe-Run",
+        "plate_num"       : "187P040H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 10,
+        "making"          : "Start-Inch",
+        "plate_num"       : "187P041H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 11,
+        "making"          : "Up-Down",
+        "plate_num"       : "187P042H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 12,
+        "making"          : "Start-Start",
+        "plate_num"       : "187P043H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 13,
+        "making"          : "Stop-Start",
+        "plate_num"       : "187P044H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 14,
+        "making"          : "Off-Coolant-On",
+        "plate_num"       : "187P045H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 15,
+        "making"          : "Auto-Off-Hand",
+        "plate_num"       : "187P046H01",
+        "price"           : 27.00
+      }
+      {
+        "id"              : 16,
+        "making"          : "Hand-Off-Auto",
+        "plate_num"       : "187P047H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 17,
+        "making"          : "Run-Off-Inch",
+        "plate_num"       : "187P048H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "id"                  : 54,
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "product"             : "For Indicating Lights",
+    "items"               : [
+      {
+        "id"              : 0,
+        "making"          : "120 Volt AC Light",
+        "plate_num"       : "187P049H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 1,
+        "making"          : "120 Volt Light",
+        "plate_num"       : "187P050H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 2,
+        "making"          : "240 Volt AC Light",
+        "plate_num"       : "187P051H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 3,
+        "making"          : "250 Volt Light",
+        "plate_num"       : "187P052H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 4,
+        "making"          : "480 Volt AC Light",
+        "plate_num"       : "187P053H01",
+        "price"           : 27.00
+      },
+      {
+        "id"              : 5,
+        "making"          : "600 Volt AC Light",
+        "plate_num"       : "187P054H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "id"                  : 55,
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "product"             : "Oil-Tite Locking Ring for OT1 and OT2 Operators",
+    "description"         : "The Oil-Tite locking ring is used when the Westlok legend plate is not required. Locking rings will be supplied at no charge when ordered with the operators. When ordering separately, see information to right.",
+    "items"               : [
+      {
+        "id"              : 0,
+        "making"          : "10 Locking Ring",
+        "plate_num"       : "277A111G01",
+        "price"           : 36.00
+      }
+    ]
+  },
+  {
+    "id"                  : 56,
+    "product_category_id" : 7,
+    "type"                : "4-Way Joystick Operator",
+    "product"             : "4-Way Joystick Operator",
+    "description"         : "Joystick Operator, complete with contact blocks and blank legend plate.",
+    "items"               : [
+      {
+        "id"              : 0,
+        "making"          : "4-Way Joystick Operator",
+        "plate_num"       : "OTJS4",
+        "price"           : 860.00
+      }
+    ]
+  },
+  {
+    "id"                  : 57,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 58,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 59,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 60,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 61,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 62,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 63,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 64,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 65,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 66,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 67,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 68,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 69,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 70,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 71,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 72,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 73,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 74,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 75,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 76,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 77,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 78,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 79,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 80,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 81,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 82,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 83,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 84,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 85,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 86,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 87,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 88,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 89,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 90,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 91,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 92,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 93,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 94,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 95,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  },
+  {
+    "id"                  : 96,
+    "product_category_id" : 0,
+    "product"             :,
+    "description"         :
+  }
+]
