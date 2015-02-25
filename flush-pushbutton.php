@@ -2,8 +2,13 @@
 $activenav = 'flush pb';
 include_once('includes/header.php');
 include_once('includes/main-nav.php');
-include_once('includes/all-products.php'); ?>
- 
+include_once('includes/all-products.php');
+
+$flushPushButtonOperatorSchema = ['product', 'description', 'type', 'items'];
+$itemSchema = ['name', 'catalog_nam', 'price'] 
+?>
+
+kjfl
 <div id="right-content">
 
     <p class="breadcrumb"><a href="index.php">OT Push Buttons</a> > <a href="flush-pushbutton.php">Flush Push Button Operators</a></p>
