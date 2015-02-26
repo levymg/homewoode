@@ -1,0 +1,602 @@
+[
+  {
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "name"                : "Standard Transformer Type Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH",
+        "price"           : null
+      },
+      {
+        "voltage"         : "575/60",
+        "catalog_num"     : "OTTJ",
+        "price"           : 232.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF",
+        "price"           : 232.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG",
+        "price"           : 232.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH",
+        "price"           : 232.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "name"                : "Standard Full Voltage Type Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "32/48/AC, DC",
+        "catalog_num"     : "OTFE",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF",
+        "price"           : 180.00
+      },
+      {
+        "voltage"         : "240/AC, DC",
+        "catalog_num"     : "OTSFG",
+        "price"           : 180.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Unit without Lens",
+    "name"                : "Push-to-Test Light Units",
+    "description"         : "Unit without lens - legend plate not included",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC",
+        "catalog_num"     : "OT3PA",
+        "price"           : 495.00
+      },
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OT3PF",
+        "price"           : null
+      },
+      {
+        "voltage"         : "240/60",
+        "catalog_num"     : "OT3PG",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OT3PH",
+        "price"           : 495.00
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OT3PJ",
+        "price"           : 495.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "name"                : "Standard Transformer Type Light Units - Clear",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF1",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH1",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ1",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF1",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG1",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH1",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "name"                : "Standard Transformer Type Light Units - Red",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF2",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH2",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ2",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF2",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG2",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH2",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "name"                : "Standard Transformer Type Light Units - Green",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF3",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH3",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ3",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF3",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG3",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH3",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Heavy Duty Indicating Lights for Cover Mounting",
+    "name"                : "Standard Transformer Type Light Units - Amber",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF4",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH4",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ4",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF4",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG4",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH4",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Transformer Type Light Units - Blue",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF5",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH5",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ5",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF5",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG5",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH5",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Transformer Type Light Units - Opal",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "120/60",
+        "catalog_num"     : "OTTF",
+        "price"           : null
+      },
+      {
+        "voltage"         : "480/60",
+        "catalog_num"     : "OTTH",
+        "price"           : null
+      },
+      {
+        "voltage"         : "600/60",
+        "catalog_num"     : "OTTJ6",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "120/25-50",
+        "catalog_num"     : "OTXF6",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "240/25-50",
+        "catalog_num"     : "OTXG6",
+        "price"           : 252.00
+      },
+      {
+        "voltage"         : "480/25-50",
+        "catalog_num"     : "OTXH6",
+        "price"           : 252.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Clear",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA1",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB1",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC1",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD1",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE1",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF1",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Red",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA2",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB2",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC2",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD2",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE2",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF2",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Green",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA3",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB3",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC3",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD3",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE3",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF3",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Amber",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA4",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB4",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC4",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD4",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE4",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF4",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Blue",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA5",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB5",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC5",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD5",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE5",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF5",
+        "price"           : 200.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 5,
+    "type"                : "Units Complete with Lens",
+    "name"                : "Standard Full Voltage Type Light Units - Opal",
+    "description"         : "Unit complete with lens",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "voltage"         : "6/AC, DC",
+        "catalog_num"     : "OTFA6",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "12/AC, DC",
+        "catalog_num"     : "OTFB6",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "24/AC, DC",
+        "catalog_num"     : "OTFC6",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "28/AC, DC",
+        "catalog_num"     : "OTFD6",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "48/AC, DC",
+        "catalog_num"     : "OTFE6",
+        "price"           : 200.00
+      },
+      {
+        "voltage"         : "120/AC, DC",
+        "catalog_num"     : "OTSFF6",
+        "price"           : 200.00
+      }
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "name"                : "For Push Button Units",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "making"          : "Blank (Standard Black)",
+        "plate_num"       : "187P001H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Start",
+        "plate_num"       : "187P002H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Stop (Black)",
+        "plate_num"       : "187P003H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Stop (Red)",
+        "plate_num"       : "187P004H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Reset",
+        "plate_num"       : "187P005H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Forward",
+        "plate_num"       : "187P006H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Reverse",
+        "plate_num"       : "187P007H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Fast",
+        "plate_num"       : "187P008H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Slow",
+        "plate_num"       : "187P009H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "On",
+        "plate_num"       : "187P010H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Off (Black)",
+        "plate_num"       : "187P011H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Off (Red)",
+        "plate_num"       : "187P012H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Inch",
+        "plate_num"       : "187P013H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Jog",
+        "plate_num"       : "187P014H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Raise",
+        "plate_num"       : "187P015H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Lower",
+        "plate_num"       : "187P016H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Up",
+        "plate_num"       : "187P017H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Down",
+        "plate_num"       : "187P018H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Open",
+        "plate_num"       : "187P019H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Close",
+        "plate_num"       : "187P020H01",
+        "price"           : 27.00
+      },
+       {
+        "making"          : "High",
+        "plate_num"       : "187P021H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Low",
+        "plate_num"       : "187P022H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Run",
+        "plate_num"       : "187P023H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Emergency Stop",
+        "plate_num"       : "187P024H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "In",
+        "plate_num"       : "187P025H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Out",
+        "plate_num"       : "187P026H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Safe",
+        "plate_num"       : "187P027H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Ready",
+        "plate_num"       : "187P028H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Faster",
+        "plate_num"       : "187P029H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Slower",
+        "plate_num"       : "187P030H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (Anodized)",
+        "plate_num"       : "187P055H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (Standard Red)",
+        "plate_num"       : "187P056H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (Oversize Black)",
+        "plate_num"       : "187P057H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Start (Oversize)",
+        "plate_num"       : "187P058H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Stop (Oversize)",
+        "plate_num"       : "187P059H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (Anodized Oversize)",
+        "plate_num"       : "187P060H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (Oversize Red)",
+        "plate_num"       : "187P061H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (King-size Black)",
+        "plate_num"       : "187P062H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Blank (King-size Red)",
+        "plate_num"       : "187P063H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "name"                : "For Selector Switches",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "making"          : "Forward - Reverse",
+        "plate_num"       : "187P031H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Hand-Auto",
+        "plate_num"       : "187P032H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "High-Low",
+        "plate_num"       : "187P033H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Inch-Run",
+        "plate_num"       : "187P034H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Jog-Run",
+        "plate_num"       : "187P035H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Off-Run",
+        "plate_num"       : "187P036H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "On-Off",
+        "plate_num"       : "187P037H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Open-Close",
+        "plate_num"       : "187P038H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Reverse-Forward",
+        "plate_num"       : "187P039H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Safe-Run",
+        "plate_num"       : "187P040H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Start-Inch",
+        "plate_num"       : "187P041H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Up-Down",
+        "plate_num"       : "187P042H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Start-Start",
+        "plate_num"       : "187P043H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Stop-Start",
+        "plate_num"       : "187P044H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Off-Coolant-On",
+        "plate_num"       : "187P045H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Auto-Off-Hand",
+        "plate_num"       : "187P046H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Hand-Off-Auto",
+        "plate_num"       : "187P047H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "Run-Off-Inch",
+        "plate_num"       : "187P048H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "name"                : "For Indicating Lights",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "making"          : "120 Volt AC Light",
+        "plate_num"       : "187P049H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "120 Volt Light",
+        "plate_num"       : "187P050H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "240 Volt AC Light",
+        "plate_num"       : "187P051H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "250 Volt Light",
+        "plate_num"       : "187P052H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "480 Volt AC Light",
+        "plate_num"       : "187P053H01",
+        "price"           : 27.00
+      },
+      {
+        "making"          : "600 Volt AC Light",
+        "plate_num"       : "187P054H01",
+        "price"           : 27.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 6,
+    "type"                : "Westlok Legend Plates",
+    "name"                : "Oil-Tite Locking Ring for OT1 and OT2 Operators",
+    "description"         : "The Oil-Tite locking ring is used when the Westlok legend plate is not required. Locking rings will be supplied at no charge when ordered with the operators. When ordering separately, see information to right.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "making"          : "10 Locking Ring",
+        "plate_num"       : "277A111G01",
+        "price"           : 36.00
+      }
+    ]
+  }
+]
