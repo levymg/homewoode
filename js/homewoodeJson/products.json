@@ -2225,7 +2225,7 @@
     "items"               : [
       {
         "id"              : 0,
-        "making"          : "4-Way Joystick Operator",
+        "description"     : "Special legend plate marking as specified, List Price $63.00 each"
         "plate_num"       : "OTJS4",
         "price"           : 860.00
       }
@@ -2233,21 +2233,59 @@
   },
   {
     "id"                  : 57,
-    "product_category_id" : 0,
-    "product"             :,
-    "description"         :
+    "product_category_id" : 8,
+    "type"                : "Momentary Contacts",
+    "product"             : "Momentary Contacts",
+    "description"         : "Includes operator, 1 NO and 1 NC contacts and king-size legend plate.",
+    "items"               : [
+      {
+        "id"              : 0,
+        "description"     : "Maintained Contacts <br> Maintained contact push buttons are operated by pushing the “toggle” action operator, which will remain “IN” until manually pulled out. The contacts are non-teasable which means it is ideal for two-wire control, and “STOP” and “EMERGENCY” applications.",
+        "plate_num"       : "OT1D1AP",
+        "price"           : 229.00
+      }
+    ]
   },
   {
     "id"                  : 58,
-    "product_category_id" : 0,
-    "product"             :,
-    "description"         :
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "product"             : "Single-Circuit Contact Block",
+    "description"         : "Available in 1 NO and 1 NC",
+    "items"               : [
+      {
+        "id"              : 0,
+        "name"            : "1 NO",
+        "plate_num"       : "OT2B",
+        "price"           : 36.00
+      },
+      {
+        "id"              : 1,
+        "name"            : "1 NC",
+        "plate_num"       : "OT2D",
+        "price"           : 36.00
+      }
+    ]
   },
   {
     "id"                  : 59,
-    "product_category_id" : 0,
-    "product"             :,
-    "description"         :
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "product"             : "Double-Circuit Contact Block",
+    "items"               : [
+      {
+        "id"              : 0,
+        "name"            : "2 NO",
+        "plate_num"       : "OT2M",
+        "price"           : 36.00
+      },
+      {
+        "id"              : 1,
+        "name"            : "1 NC",
+        "plate_num"       : "OT2D",
+        "price"           : 36.00
+      }
+    ]
   },
   {
     "id"                  : 60,

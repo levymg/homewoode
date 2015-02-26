@@ -1,0 +1,288 @@
+[
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "Half Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "images/products/lg/extpb-half-ot1a2.jpg",
+    "img"                 : "images/products/extpb-half-ot1a2.jpg",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Black",
+        "catalog_num" : "OT1A1",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Red",
+        "catalog_num" : "OT1A2",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Green",
+        "catalog_num" : "OT1A3",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Yellow",
+        "catalog_num" : "OT1A4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "Full Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "images/products/lg/extpb-full-ot1b1.jpg",
+    "img"                 : "images/products/extpb-full-ot1b1.jpg",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Black",
+        "catalog_num" : "OT1B1",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Red",
+        "catalog_num" : "OT1B2",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Green",
+        "catalog_num" : "OT1B3",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Yellow",
+        "catalog_num" : "OT1B4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "No Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "images/products/lg/extpb-no-ot1c2.jpg",
+    "img"                 : "images/products/extpb-no-ot1c2.jpg",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Black",
+        "catalog_num" : "OT1C1",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Red",
+        "catalog_num" : "OT1C2",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Green",
+        "catalog_num" : "OT1C3",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "Yellow",
+        "catalog_num" : "OT1C4",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "Mushroom Head",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "images/products/lg/extpb-mushroom-ot1d2.jpg",
+    "img"                 : "images/products/extpb-mushroom-ot1d2.jpg",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Black",
+        "catalog_num" : "OT1D1",
+        "price"       : 144.00
+      },
+      {
+        "name"        : "Red",
+        "catalog_num" : "OT1D2",
+        "price"       : 144.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "Cylinder Lock - Key Removable Locked Position Only",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "images/products/lg/extpb-cyl-ot1f8.jpg",
+    "img"                 : "images/products/extpb-cyl-ot1f8.jpg",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Lock-out (min. quantity 10)",
+        "catalog_num" : "OT1E8",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in",
+        "catalog_num" : "OT1F8",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in-out",
+        "catalog_num" : "OT1G8",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in-out-mid",
+        "catalog_num" : "OT1H8",
+        "price"       : 405.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Extended Push Button Operator",
+    "name"                : "Cylinder Lock - Key Removable All Positions",
+    "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "need_contact"        : true,
+    "items"               : [
+      {
+        "name"        : "Lock-out (min. quantity 10)",
+        "catalog_num" : "OT1E9",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in",
+        "catalog_num" : "OT1F9",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in-out",
+        "catalog_num" : "OT1G9",
+        "price"       : 405.00
+      },
+      {
+        "name"        : "Lock-in-out-mid",
+        "catalog_num" : "OT1H9",
+        "price"       : 405.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Contact Block for Extended Operators",
+    "name"                : "Single-Block Contact Block",
+    "description"         : "Available in 1 NO and 1 NC",
+    "imgLg"               : "images/products/lg/extpb-scb-ot1l.jpg",
+    "img"                 : "images/products/lg/extpb-scb-ot1l.jpg",
+    "items"               : [
+      {
+        "name"        : "1 NO",
+        "catalog_num" : "OT1LA Box",
+        "price"       : 36.00
+      },
+      {
+        "name"        : "1 NO",
+        "catalog_num" : "OT1AA Cover",
+        "price"       : 36.00
+      },
+      {
+        "name"        : "1 NC",
+        "catalog_num" : "OT1LB Box",
+        "price"       : 36.00
+      },
+      {
+        "name"        : "1 NC",
+        "catalog_num" : "OT1AB Cover",
+        "price"       : 36.00
+      },
+      {
+        "name"        : "1 NO, 1 NC",
+        "catalog_num" : "OT1L Box",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "1 NO, 1 NC",
+        "catalog_num" : "OT1A Cover",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "1 NO, 1 NC Make Before Break",
+        "catalog_num" : "OT1V Box",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "1 NO, 1 NC Make Before Break",
+        "catalog_num" : "OT1B Cover",
+        "price"       : 72.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 1,
+    "type"                : "Contact Block for Extended Operators",
+    "name"                : "Double-Block Contact Block",
+    "description"         : "Available in 2 NO and 2 NC",
+    "imgLg"               : "images/products/lg/extpb-dcb-ot1w.jpg",
+    "img"                 : "images/products/extpb-dcb-ot1w.jpg",
+    "items"               : [
+      {
+        "name"        : "2 NO",
+        "catalog_num" : "OT1WA Box",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "2 NO",
+        "catalog_num" : "OT1CA Cover",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "2 NC",
+        "catalog_num" : "OT1WB Box",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "2 NC",
+        "catalog_num" : "OT1CB Cover",
+        "price"       : 72.00
+      },
+      {
+        "name"        : "2 NO, 2 NC",
+        "catalog_num" : "OT1W Box",
+        "price"       : 154.00
+      },
+      {
+        "name"        : "2 NO, 2 NC",
+        "catalog_num" : "OT1C Cover",
+        "price"       : 154.00
+      },
+      {
+        "name"        : "2 NO, 2 NC Make Before Break",
+        "catalog_num" : "OT1X Box",
+        "price"       : 154.00
+      },
+      {
+        "name"        : "2 NO, 2 NC Make Before Break",
+        "catalog_num" : "OT1D Cover",
+        "price"       : 154.00
+      },
+      {
+        "name"        : "2 NO, 2NC Sequence One Pole Make Before Other",
+        "catalog_num" : "OT1E Cover",
+        "price"       : 154.00
+      },
+      {
+        "name"        : "4 NO, 4 NC Tandem Block (Not for Pull Box)",
+        "catalog_num" : "OT1F Cover",
+        "price"       : 308.00
+      }
+    ]
+  }
+]

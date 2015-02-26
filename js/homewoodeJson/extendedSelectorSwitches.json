@@ -1,0 +1,128 @@
+[
+  {
+    "product_category_id" : 3,
+    "type"                : "2 Position",
+    "name"                : "Standard",
+    "imgLg"               : "images/products/lg/extss-2sm-ot1s1.jpg",
+    "img"                 : "images/products/extss-2sm-ot1s1.jpg",
+    "items"               : [
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1S1",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Spring Return Right to Left",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1I1",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 3,
+    "type"                : "2 Position",
+    "name"                : "Cylinder Lock",
+    "imgLg"               : "images/ot1k1.png",
+    "img"                 : "images/ot1k1.png",
+    "items"               : [
+      {
+        "operation"       : "Lock All Positions",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1K1",
+        "price"           : 405.00
+      },
+      {
+        "operation"       : "Lock Left Position",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1Y1",
+        "price"           : 405.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 3,
+    "type"                : "3 Position",
+    "name"                : "Standard",
+    "imgLg"               : "images/products/lg/extss-3sm-ot1s3.jpg",
+    "img"                 : "images/products/extss-3sm-ot1s3.jpg",
+    "items"               : [
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1S3",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "6",
+        "catalog_num"     : "OT1S6",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "7",
+        "catalog_num"     : "OT1S7",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "9",
+        "catalog_num"     : "OT1S9",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Maintained",
+        "cam_num"         : "12",
+        "catalog_num"     : "OT1S0",
+        "price"           : 105.00
+      },
+      {
+        "operation"       : "Spring Return Rt. & Lft. to Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1V1",
+        "price"           : 144.00
+      },
+      {
+        "operation"       : "Spring Return Rt. To Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1Z1",
+        "price"           : 144.00
+      },
+      {
+        "operation"       : "Spring Return Lt. To Ctr.",
+        "cam_num"         : "1",
+        "catalog_num"     : "OT1W1",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 3,
+    "type"                : "3 Position",
+    "name"                : "Cylinder Lock",
+    "imgLg"               : "images/ot1k1.png",
+    "img"                 : "images/ot1k1.png",
+    "items"               : [
+      {
+        "operation"       : "Lock All Positions",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1K3",
+        "price"           : 405.00
+      },
+      {
+        "operation"       : "Lock Center Position",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1Y3",
+        "price"           : 405.00
+      },
+      {
+        "operation"       : "Lock Ctr. & Rt. Positions",
+        "cam_num"         : "3",
+        "catalog_num"     : "OT1O3",
+        "price"           : 405.00
+      }
+    ]
+  }
+]

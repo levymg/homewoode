@@ -1,13 +1,15 @@
 [
   {
-    "id"                  : 0,
     "product_category_id" : 0,
     "type"                : "Flush Push Button Operator",
-    "product"             : "Full Shroud",
-    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only) <br> Colors: All are included (Black, Red, Green, Yellow, Blue, Gray, Brown)",
+    "name"                : "Full Shroud",
+    "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "subdescription"      : "Colors: All are included (Black, Red, Green, Yellow, Blue, Gray, Brown)",
+    "need_contact"        : true,
+    "imgLg"               : "images/products/lg/flush-full-ot2b4.jpg",
+    "img"                 : "images/products/flush-full-ot2b4.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "All colors",
         "catalog_num" : "OT2B4",
         "price"       : 144.00
@@ -15,32 +17,30 @@
     ]
   },
   {
-    "id"                  : 1,
     "product_category_id" : 0,
     "type"                : "Flush Push Button Operator",
-    "product"             : "No Shroud",
+    "name"                : "No Shroud",
     "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "need_contact"        : true,
+    "imgLg"               : "images/products/lg/flush-no-ot2c2.jpg",
+    "img"                 : "images/products/flush-no-ot2c2.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "Black",
         "catalog_num" : "OT2C1",
         "price"       : 72.00
       },
       {
-        "id"          : 1,
         "name"        : "Red",
         "catalog_num" : "OT2C2",
         "price"       : 72.00
       },
       {
-        "id"          : 2,
         "name"        : "Green",
         "catalog_num" : "OT2C3",
         "price"       : 72.00
       },
       {
-        "id"          : 3,
         "name"        : "Yellow",
         "catalog_num" : "OT2C4",
         "price"       : 72.00
@@ -48,32 +48,30 @@
     ]
   },
   {
-    "id"                  : 2,
     "product_category_id" : 0,
     "type"                : "Flush Push Button Operator",
-    "product"             : "Mushroom Head",
+    "name"                : "Mushroom Head",
     "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "need_contact"        : true,
+    "imgLg"               : "images/products/lg/flush-mushroom-ot2d2.jpg",
+    "img"                 : "images/products/flush-mushroom-ot2d2.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "Black",
         "catalog_num" : "OT2D1",
         "price"       : 144.00
       },
       {
-        "id"          : 1,
         "name"        : "Red",
         "catalog_num" : "OT2D2",
         "price"       : 144.00
       },
       {
-        "id"          : 2,
         "name"        : "Green",
         "catalog_num" : "OT2D3",
         "price"       : 144.00
       },
       {
-        "id"          : 3,
         "name"        : "Yellow",
         "catalog_num" : "OT2D4",
         "price"       : 144.00
@@ -81,26 +79,25 @@
     ]
   },
   {
-    "id"                  : 3,
     "product_category_id" : 0,
     "type"                : "Flush Push Button Operator",
-    "product"             : "Cylinder Lock (Key Removable in Locked Position Only)",
+    "name"                : "Cylinder Lock (Key Removable in Locked Position Only)",
     "description"         : "Operator only without contact block or legend plate (Cover Mounting Only)",
+    "need_contact"        : true,
+    "imgLg"               : "images/products/cylinder-lock.jpg",
+    "img"                 : "images/products/cylinder-lock.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "Out",
         "catalog_num" : "OT2E8",
         "price"       : 405.00
       },
       {
-        "id"          : 1,
         "name"        : "In",
         "catalog_num" : "OT2F8",
         "price"       : 405.00
       },
       {
-        "id"          : 2,
         "name"        : "In or Out",
         "catalog_num" : "OT2G8",
         "price"       : 405.00
@@ -108,26 +105,25 @@
     ]
   },
   {
-    "id"                  : 4,
     "product_category_id" : 0,
     "type"                : "Flush Push Button Operator",
-    "product"             : "Cylinder Lock (Key Removable in All Positions)",
+    "name"                : "Cylinder Lock (Key Removable in All Positions)",
     "description"         : "Operator only without Contact Block or Legend Plate (Cover Mounting Only)",
+    "need_contact"        : true,
+    "imgLg"               : "images/products/cylinder-lock.jpg",
+    "img"                 : "images/products/cylinder-lock.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "Out",
         "catalog_num" : "OT2E9",
         "price"       : 405.00
       },
       {
-        "id"          : 1,
         "name"        : "In",
         "catalog_num" : "OT2F9",
         "price"       : 405.00
       },
       {
-        "id"          : 2,
         "name"        : "In or Out",
         "catalog_num" : "OT2G9",
         "price"       : 405.00
@@ -135,81 +131,72 @@
     ]
   },
   {
-    "id"                  : 5,
     "product_category_id" : 0,
     "type"                : "Contact Block for Flush Push Button Operators",
-    "product"             : "Single-Circuit Contact Block",
+    "name"                : "Single-Circuit Contact Block",
+    "imgLg"               : "images/products/lg/flush-scb-ot2d.jpg",
+    "img"                 : "images/products/flush-scb-ot2d.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "1 NO",
         "catalog_num" : "OT2B",
         "price"       : 36.00
       },
       {
-        "id"          : 1,
         "name"        : "1 NC",
         "catalog_num" : "OT2D",
         "price"       : 36.00
       }
     ]
-  }
+  },
   {
-    "id"                  : 6,
     "product_category_id" : 0,
     "type"                : "Contact Block for Flush Push Button Operators",
-    "product"             : "Double-Circuit Contact Block",
+    "name"                : "Double-Circuit Contact Block",
+    "imgLg"               : "images/products/lg/flush-dcb-ot2m.jpg",
+    "img"                 : "images/products/flush-dcb-ot2m.jpg",
     "items"               : [
       {
-        "id"          : 0,
         "name"        : "2 NO",
         "catalog_num" : "OT2M",
         "price"       : 72.00
       },
       {
-        "id"          : 1,
         "name"        : "2 NC",
         "catalog_num" : "OT2N",
         "price"       : 72.00
       },
       {
-        "id"          : 2,
         "name"        : "1 NO, 1 NC",
         "catalog_num" : "OT2A",
         "price"       : 72.00
       },
       {
-        "id"          : 3,
         "name"        : "1 NO, 1 NC Make Before Break",
         "catalog_num" : "OT2V",
         "price"       : 72.00
       },
       {
-        "id"          : 4,
         "name"        : "2 NO Sequence One Pole Makes Before Other",
         "catalog_num" : "OT2X",
         "price"       : 72.00
       },
       {
-        "id"          : 5,
         "name"        : "1 NO, 1 NC Series Wired",
         "catalog_num" : "OT2AS",
         "price"       : 116.00
       },
       {
-        "id"          : 6,
         "name"        : "1 NO, 1 NC Parallel Wired",
         "catalog_num" : "OT2AP",
         "price"       : 116.00
       },
       {
-        "id"          : 7,
         "name"        : "2 NO, 2 NC Series Wired",
         "catalog_num" : "OT2MS",
         "price"       : 116.00
       },
       {
-        "id"          : 8,
         "name"        : "2 NO, 2 NC Parallel Wired",
         "catalog_num" : "OT2MP",
         "price"       : 116.00
