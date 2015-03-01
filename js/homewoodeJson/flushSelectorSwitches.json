@@ -78,8 +78,8 @@
     "product_category_id" : 2,
     "type"                : "Standard Handle",
     "name"                : "Spring Return Right to Center",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-sh-main-ot2s1.jpg",
+    "img"                 : "images/products/flushss-sh-main-ot2s1.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -105,8 +105,8 @@
     "product_category_id" : 2,
     "type"                : "Standard Handle",
     "name"                : "Spring Return Left to Center",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-sh-srl-ot2i1.jpg",
+    "img"                 : "images/products/flushss-sh-srl-ot2i1.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -165,8 +165,8 @@
     "product_category_id" : 2,
     "type"                : "Lever Handle",
     "name"                : "Spring Return Right to Left",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-lh-main-ot2s1w.jpg",
+    "img"                 : "images/products/flushss-lh-main-ot2s1w.jpg",
     "items"               : [
       {
         "position"        : "2",
@@ -207,8 +207,8 @@
     "product_category_id" : 2,
     "type"                : "Lever Handle",
     "name"                : "Spring Return Right to Center",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-lh-main-ot2s1w.jpg",
+    "img"                 : "images/products/flushss-lh-main-ot2s1w.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -234,8 +234,8 @@
     "product_category_id" : 2,
     "type"                : "Lever Handle",
     "name"                : "Spring Return Left to Center",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-lh-main-ot2s1w.jpg",
+    "img"                 : "images/products/flushss-lh-main-ot2s1w.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -246,13 +246,13 @@
       {
         "position"        : "3",
         "cam_num"         : "4",
-        "catalog_num"     : "OT2W2W",
+        "catalog_num"     : "OT2W4W",
         "price"           : 144.00
       },
       {
         "position"        : "3",
         "cam_num"         : "6",
-        "catalog_num"     : "OT2W2W",
+        "catalog_num"     : "OT2W6W",
         "price"           : 144.00
       }
     ]
@@ -261,8 +261,8 @@
     "product_category_id" : 2,
     "type"                : "Cylinder Lock",
     "name"                : "Lock in All Positions",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-cl-left-ot2y1.jpg",
+    "img"                 : "images/products/lg/flushss-cl-left-ot2y1.jpg",
     "items"               : [
       {
         "position"        : "2",
@@ -309,8 +309,8 @@
     "product_category_id" : 2,
     "type"                : "Cylinder Lock",
     "name"                : "Lock in Center Position",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-cl-left-ot2y1.jpg",
+    "img"                 : "images/products/lg/flushss-cl-left-ot2y1.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -336,8 +336,8 @@
     "product_category_id" : 2,
     "type"                : "Cylinder Lock",
     "name"                : "Lock in Center and Right Positions",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/flushss-cl-left-ot2y1.jpg",
+    "img"                 : "images/products/lg/flushss-cl-left-ot2y1.jpg",
     "items"               : [
       {
         "position"        : "3",
@@ -348,13 +348,13 @@
       {
         "position"        : "3",
         "cam_num"         : "4",
-        "catalog_num"     : "OT2O2",
+        "catalog_num"     : "OT2O4",
         "price"           : 405.00
       },
       {
         "position"        : "3",
         "cam_num"         : "6",
-        "catalog_num"     : "OT2O2",
+        "catalog_num"     : "OT2O6",
         "price"           : 405.00
       }
     ]

@@ -9,7 +9,9 @@ function importJson(category) {
     'flushSelectorSwitches'      : flushSelectorSwitches,
     'extendedSelectorSwitches'   : extendedSelectorSwitches,
     'indicatingLightUnits'       : indicatingLightUnits,
-    'westlokLegendPlates'        : westlokLegendPlates
+    'westlokLegendPlates'        : westlokLegendPlates,
+    'partsAndAccessories'        : partsAndAccessories,
+    'selectOPushButton'          : selectOPushButton
   }
 
   $.getJSON('js/homewoodeJson/' + category + '.json', func[category]).error(function(xhr) {
@@ -513,31 +515,31 @@ function westlokLegendPlates(json) {
 }
 
 function partsAndAccessories(json) {
-  var cats = [
-    ['Description', 'Item', 'Catalog #', 'Price']
-  ];
-
-  var prev = ""
+  var prev = "";
   for (var i = 0; i < json.length; i ++) {
     var product = json[i];
     var out = "";
     if (prev !== product["type"]) {
       out += "<h6 id=" + product["type"].replace(/\s+/g, '-') + ">" + product["type"] + "</h6>";
-      if (cats[product["nav_type"]].length > 3) {
-        out += "<div class='topbar'>";
-        out += "<ul class='babynav'>";
-        out += "<li class='prod-desc'>"+cats[product["nav_type"]][0]+"</li>";
-        out += "<li class='prod-item'>"+cats[product["nav_type"]][1]+"</li>";
-        out += "<li class='prod-cat'>"+cats[product["nav_type"]][2]+"</li>";
-        out += "<li class='prod-price'>"+cats[product["nav_type"]][3]+"</li>";
-        out += "<li class='prod-quant'>Quantity</li>";
-        out += "</ul>";
-        out += "</div>";
+      out += "<div class='topbar'>";
+      out += "<ul class='babynav'>";
+      if (product["categories"].length > 3) {
+        out += "<li class='prod-desc'>"+product["categories"][0]["user"]+"</li>";
+        out += "<li class='prod-item'>"+product["categories"][1]["user"]+"</li>";
+        out += "<li class='prod-cat'>"+product["categories"][2]["user"]+"</li>";
+        out += "<li class='prod-price'>"+product["categories"][3]["user"]+"</li>";
+      } else {
+        out += "<li class='prod-desc'>"+product["categories"][0]["user"]+"</li>";
+        out += "<li class='prod-item'></li>";
+        out += "<li class='prod-cat'>"+product["categories"][1]["user"]+"</li>";
+        out += "<li class='prod-price'>"+product["categories"][2]["user"]+"</li>";
       }
+      out += "<li class='prod-quant'>Quantity</li>";
+      out += "</ul>";
+      out += "</div>";
       prev = product["type"];
     }
 
-    out += "<div class='products2'>";
     out += "<div class='";
     if (i % 2 === 0) {
       out += "product2";
@@ -556,29 +558,50 @@ function partsAndAccessories(json) {
     out += "</a>";
     out += "</div>";
     out += "<div class='description'>";
-    out += "<span class='header'>" + product["name"] +"</span><br />";
-    out += "<span class='babytitle'>Need a Contact Block?</span><br />";
-    out += "<a href='http://www.levydev.com/homewood/contact-us.php' target='_blank'>> Consult our Factory</a>";
+    out += "<span class='header'>" + product["name"] + "</span>";
+    out += "<p class='babytitle'>" + product["type"] + "</p>";
+    if (product["description"] !== undefined) {
+      out += "<p>" + product["description"] + "</p>";
+    }
+    if (product["subdescription"] !== undefined) {
+      out += "<p>" + product["subdescription"] + "</p>";
+    }
     out += "</div>";
     out += "<ol class='product-ol'>";
     for (var k = 0; k < product["items"].length; k ++) {
       var item = product["items"][k];
       out += "<li>";
       out += "<ul class='product-ul'>";
-      out += "<li class='item'>" + item["voltage"] +"</li>";
-      out += "<li class='cat'>" + item["catalog_num"] +"</li>";
-      out += "<li class='price'>";
-      if (item["price"] === null) {
-        out += "N/A";
+      if (product["categories"].length > 3) {
+        out += "<li class='item'>" + item[product["categories"][1]["db"]] +"</li>";
+        if (item[product["categories"][2]["db"]] !== null) {
+          out += "<li class='cat'>" + item[product["categories"][2]["db"]] +"</li>";
+          out += "<li class='price'>";
+          if (item[product["categories"][3]] === null) {
+            out += "N/A";
+          } else {
+            out += "$" + item[product["categories"][3]["db"]];
+          }
+          out += "</li>";
+        }
       } else {
-        out += "$" + item["price"];
+        out += "<li class='item'></li>";
+        out += "<li class='cat'>" + item[product["categories"][1]["db"]] +"</li>";
+        out += "<li class='price'>";
+        if (item[product["categories"][2]] === null) {
+          out += "N/A";
+        } else {
+          out += "$" + item[product["categories"][2]["db"]];
+        }
+        out += "</li>";
       }
-      out += "</li>";
-      out += "<li class='quant'>";
-      out += "<input type='text' name='qty1' class='qtybox' />";
-      out += "<input type='hidden' name='product1' value=" + item["catalog_num"] + " - " + product["name"] + " - " + item["voltage"] + " />";
-      out += "<input type='hidden' name='price1' value=" + item["price"] + " />";
-      out += "</li>";
+      if (item[product["categories"][2]["db"]] !== null) {
+        out += "<li class='quant'>";
+        out += "<input type='text' name='qty1' class='qtybox' />";
+        out += "<input type='hidden' name='product1' value=" + item["catalog_num"] + " - " + product["name"] + " - " + item["voltage"] + " />";
+        out += "<input type='hidden' name='price1' value=" + item["price"] + " />";
+        out += "</li>";
+      }
       out += "</ul>";
       out += "<div class='clearfix'></div>";
       out += "</li>";
@@ -604,6 +627,84 @@ function partsAndAccessories(json) {
     out += "</div>";
     $("#product-list").append(out);
   }
+  $("#product-list").append("<div class='clearfix'></div>");
+}
+
+function selectOPushButton(json) {
+  var prev = ""
+  for (var i = 0; i < json.length; i ++) {
+    var product = json[i];
+    var out = "";
+    if (prev !== product["type"]) {
+      out += "<h6 id=" + product["type"].replace(/\s+/g, '-') + ">" + product["type"] + "</h6>";
+      out += "<div class='topbar'>";
+      out += "<ul class='babynav'>";
+      out += "<li class='prod-desc'>Description</li>";
+      out += "<li class='prod-item'></li>";
+      out += "<li class='prod-cat'>Catalog #</li>";
+      out += "<li class='prod-price'>Price</li>";
+      out += "<li class='prod-quant'>Quantity</li>";
+      out += "</ul>";
+      out += "</div>";
+      prev = product["type"];
+    }
+    out += "<div class='";
+    if (i % 2 === 0) {
+      out += "product2";
+    } else {
+      out += "product1";
+    }
+    out += "' id=" + product["name"].replace(/\s+/g, '-').toLowerCase();
+    out += ">";
+    out += "<form method='post' action='http://ww7.aitsafe.com/cf/addmulti.cfm'>";
+    out += "<input type='hidden' name='userid' value='96231500' />";
+    out += "<input type='hidden' name='return' value='www.homewoodecommerce.com/index.php' />";
+    out += "<div class='image'>";
+    out += "<a href=" + product["imgLg"] + " class='thickbox'><img src=" + product["img"] +" height='100' width='100'/><br />";
+    out += "<img src='images/view-larger.png' height='20' width='90' alt='View Larger' /></a>";
+    out += "</div>";
+    out += "<div class='description'>";
+    out += "<span class='header'>" + product["name"] + "</span>";
+    out += "<p class='babytitle'>" + product["type"] + "</p>";
+    if (product["description"] !== undefined) {
+      out += "<p>" + product["description"] + "</p>";
+    }
+    if (product["subdescription"] !== undefined) {
+      out += "<p>" + product["subdescription"] + "</p>";
+    }
+    out += "</div>"; 
+
+    out += "<ol class='product-ol'>";
+    for (var k = 0; k < product["items"].length; k ++) {
+      var item = product["items"][k];
+      out += "<li>";
+      out += "<ul class='product-ul'>";
+      out += "<li class='item'></li>";
+      out += "<li class='cat'>" + item["catalog_num"] + "</li>";
+      out += "<li class='price'>$" + item["price"] +"</li>";
+      out += "<li class='quant'>";
+      out += "<input type='text' class='qtybox' />";
+      out += "<input type='hidden' value=" + item["catalog_num"] + " - " + product["name"] + " />";
+      out += "<input type='hidden' value=" + item["price"] +" />";
+      out += "</li>";
+      out += "</ul>";
+      out += "<div class='clearfix'></div>"
+
+      out += "</li>";
+    }
+    out += "<li>";
+    out += "<ul class='product-ul'><li class='add2'>";
+    out += "<input type='submit' name='Submit' value='Add to Cart' />";
+    out += "</li></ul>";
+    out += "<div class='clearfix'></div>";
+    out += "</li>";
+    out += "</ol>";
+    out += "<div class='clearfix'></div>"
+
+    out += "</form>"; 
+    out += "</div>"
+    $("#product-list").append(out);
+  }              
   $("#product-list").append("<div class='clearfix'></div>");
 }
 

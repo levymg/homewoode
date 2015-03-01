@@ -1,0 +1,859 @@
+[
+  {
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "name"                : "Single-Circuit Contact Block",
+    "description"         : "Available in 1 NO and 1 NC",
+    "imgLg"               : "images/products/flush-scb-ot2d.jpg",
+    "img"                 : "images/products/flush-scb-ot2d.jpg",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "1 NO",
+        "category_num"    : "OT2B",
+        "price"           : 36.00
+      },
+      {
+        "name"            : "1 NC",
+        "category_num"    : "OT2D",
+        "price"           : 36.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Flush Push Button Operators",
+    "name"                : "Double-Circuit Contact Block",
+    "description"         : "",
+    "imgLg"               : "images/products/lg/flush-dcb-ot2m.jpg",
+    "img"                 : "images/products/lg/flush-dcb-ot2m.jpg",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "2 NO",
+        "category_num"    : "OT2M",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "2 NC",
+        "category_num"    : "OT2N",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC",
+        "category_num"    : "OT2A",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC",
+        "category_num"    : "OT2V",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "Make Before Break",
+        "category_num"    : null,
+        "price"           : null
+      },
+      {
+        "name"            : "2 NO Sequence One Pole Makes Before Other",
+        "category_num"    : "OT2X",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC Series Wired",
+        "category_num"    : "OT2AS",
+        "price"           : 116.00
+      },
+      {
+        "name"            : "1 NO, 1 NC Parallel Wired",
+        "category_num"    : "OT2AP",
+        "price"           : 116.00
+      },
+      {
+        "name"            : "2 NO, 2 NC Series Wired",
+        "category_num"    : "OT2MS",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "2 NO, 2 NC Parallel Wired",
+        "category_num"    : "OT2MP",
+        "price"           : 154.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Extended Operators",
+    "name"                : "Single-Block Contact Block",
+    "description"         : "Available in 1 NO and 1 NC",
+    "imgLg"               : "images/products/lg/extpb-scb-ot1l.jpg",
+    "img"                 : "images/products/lg/extpb-scb-ot1l.jpg",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "1 NO",
+        "category_num"    : "OT1LA Box",
+        "price"           : 36.00
+      },
+      {
+        "name"            : "1 NO",
+        "category_num"    : "OT1AA Cover",
+        "price"           : 36.00
+      },
+      {
+        "name"            : "1 NC",
+        "category_num"    : "OT1LB Box",
+        "price"           : 36.00
+      },
+      {
+        "name"            : "1 NC",
+        "category_num"    : "OT1AB Cover",
+        "price"           : 36.00
+      },
+      {
+        "name"            : "1 NO, 1 NC",
+        "category_num"    : "OT1L Box",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC",
+        "category_num"    : "OT1A Cover",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC Make Before Break",
+        "category_num"    : "OT1V Box",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "1 NO, 1 NC Make Before Break",
+        "category_num"    : "OT1B Cover",
+        "price"           : 72.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 9,
+    "type"                : "Contact Block for Extended Operators",
+    "name"                : "Double-Block Contact Block",
+    "description"         : "Available in 2 NO and 2 NC",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "2 NO",
+        "category_num"    : "OT1WA Box",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "2 NO",
+        "category_num"    : "OT1CA Cover",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "2 NC",
+        "category_num"    : "OT1WB Box",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "2 NC",
+        "category_num"    : "OT1CB Cover",
+        "price"           : 72.00
+      },
+      {
+        "name"            : "2 NO, 2 NC",
+        "category_num"    : "OT1W Box",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "2 NO, 2 NC",
+        "category_num"    : "OT1C Cover",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "2 NO, 2 NC Make Before Break",
+        "category_num"    : "OT1X Box",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "2 NO, 2 NC Make Before Break",
+        "category_num"    : "OT1D Cover",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "2 NO, 2NC Sequence One Pole Make Before Other",
+        "category_num"    : "OT1E Cover",
+        "price"           : 154.00
+      },
+      {
+        "name"            : "4 NO, 4 NC Tandem Block (Not for Pull Box)",
+        "category_num"    : "OT1F Cover",
+        "price"           : 308.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 10,
+    "type"                : "Lens for Indicating Light Units",
+    "name"                : "Standard or Transformer Lens",
+    "description"         : "",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "Clear",
+        "category_num"    : "OT1",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Red",
+        "category_num"    : "OT2",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Green",
+        "category_num"    : "OT3",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Amber",
+        "category_num"    : "OT4",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Blue",
+        "category_num"    : "OT5",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Opal",
+        "category_num"    : "OT6",
+        "price"           : 20.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 10,
+    "type"                : "Lens for Indicating Light Units",
+    "name"                : "Push-to-Test Lite Lens",
+    "description"         : "",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "Clear",
+        "category_num"    : "OT3P1",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Red",
+        "category_num"    : "OT3P2",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Green",
+        "category_num"    : "OT3P3",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Amber",
+        "category_num"    : "OT3P4",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Blue",
+        "category_num"    : "OT3P5",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Opal",
+        "category_num"    : "OT3P6",
+        "price"           : 20.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 10,
+    "type"                : "Lens for Indicating Light Units",
+    "name"                : "Push-Lite Lens",
+    "description"         : "",
+    "imgLg"               : "images/products/lg/lens-pushlite-ot3l2.jpg",
+    "img"                 : "images/products/lg/lens-pushlite-ot3l2.jpg",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "Clear",
+        "category_num"    : "OT3L1",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Red",
+        "category_num"    : "OT3L2",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Green",
+        "category_num"    : "OT3L3",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Amber",
+        "category_num"    : "OT3L4",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Blue",
+        "category_num"    : "OT3L5",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Opal",
+        "category_num"    : "OT3L6",
+        "price"           : 20.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 10,
+    "type"                : "Lens for Indicating Light Units",
+    "name"                : "Select-O-Push and Select-O-Push Lite Lens",
+    "description"         : "",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Item"       , "db": "name"         },
+                              { "user": "Catalog #"  , "db": "category_num" },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "name"            : "Clear",
+        "category_num"    : "OT2J1",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Red",
+        "category_num"    : "OT2J2",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Green",
+        "category_num"    : "OT2J3",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Amber",
+        "category_num"    : "OT2J4",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Blue",
+        "category_num"    : "OT2J5",
+        "price"           : 20.00
+      },
+      {
+        "name"            : "Opal",
+        "category_num"    : "OT2J6",
+        "price"           : 20.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 11,
+    "type"                : "Replacement Bulbs",
+    "name"                : "Miniature Bayonet Transformer Type, Push-to-Test, Push-Lite, Select-O-Lite, Select-O-Push Lite, Full Voltage Types",
+    "description"         : "",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Volts"      , "db": "volts"        },
+                              { "user": "Style #"    , "db": "style_num"    },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "volts"           : "6",
+        "style_num"       : "13D1365H08",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "12",
+        "style_num"       : "764A614H02",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "24",
+        "style_num"       : "764A614H03",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "28",
+        "style_num"       : "764A614H04",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "48",
+        "style_num"       : "764A614H08",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "120",
+        "style_num"       : "764A614H07",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "6.3",
+        "style_num"       : "13D1365H10",
+        "price"           : 8.15
+      }
+    ]
+  },
+  {
+    "product_category_id" : 11,
+    "type"                : "Replacement Bulbs",
+    "name"                : "Candelabra (AC or DC)",
+    "description"         : "",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Volts"      , "db": "volts"        },
+                              { "user": "Style #"    , "db": "style_num"    },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "volts"           : "125/130",
+        "style_num"       : "31D5316H09",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "12",
+        "style_num"       : "31D5316P1",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "24",
+        "style_num"       : "1614639",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "32",
+        "style_num"       : "31D5316P3",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "50",
+        "style_num"       : "31D5316P4",
+        "price"           : 8.15
+      },
+      {
+        "volts"           : "120",
+        "style_num"       : "1513106",
+        "price"           : 8.15
+      }
+    ]
+  },
+  {
+    "product_category_id" : 12,
+    "type"                : "Accessories for Flush Push Button Operators",
+    "name"                : "Lever Operator",
+    "description"         : "Lever mounts on standard 2 -1/4” Oil-Tite centers. Provides ease in glove operation, spring return to center. Use with two shroud operators.</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "314C285G01",
+        "price"           : 475.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 12,
+    "type"                : "Accessories for Flush Push Button Operators",
+    "name"                : "Maintained Contact Assembly",
+    "description"         : "Includes 1 Red and 1 Black Operator, and 1 OT2B contact block.</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "506C934G01",
+        "price"           : 660.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 12,
+    "type"                : "Accessories for Flush Push Button Operators",
+    "name"                : "Latching Attachment",
+    "description"         : "For use with extended or mushroom head operator. Locks operator in depressed position.</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "314C288GO1",
+        "price"           : 144.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 12,
+    "type"                : "Accessories for Flush Push Button Operators (Caps)",
+    "name"                : "Operator Color Caps",
+    "description"         : "For standard flush operators, extended operators and mushroom head operators.</br>Flush and extended caps are interchangeable on the same basic operator.</br>Mushroom head caps are for use only on mushroom head operators.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Color"      , "db": "color"        },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "color"           : "Black (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G19",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Red (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G20",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Green (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G21",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Yellow (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G22",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Blue (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G23",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Brown (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G24",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Gray (Flush Snap-in Caps)",
+        "catalog_num"     : "315C466G25",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Black (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G12",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Red (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G13",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Green (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G14",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Yellow (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G15",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Blue (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G16",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Brown (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G17",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Gray (Extended Snap-in Caps)",
+        "catalog_num"     : "315C466G18",
+        "price"           : "36.00 for 10"
+      },
+      {
+        "color"           : "Black (Mushroom Head Caps)",
+        "catalog_num"     : "315C466G01",
+        "price"           : "60.00 ea."
+      },
+      {
+        "color"           : "Red (Mushroom Head Caps)",
+        "catalog_num"     : "315C466G02",
+        "price"           : "60.00 ea."
+      },
+      {
+        "color"           : "Green (Mushroom Head Caps)",
+        "catalog_num"     : "315C466G03",
+        "price"           : "60.00 ea."
+      },
+      {
+        "color"           : "Yellow (Mushroom Head Caps)",
+        "catalog_num"     : "315C466G04",
+        "price"           : "60.00 ea."
+      }
+    ]
+  },
+  {
+    "product_category_id" : 12,
+    "type"                : "Accessories for Flush Push Button Operators (Caps)",
+    "name"                : "Dust-Tight Caps",
+    "description"         : "Provides protection against very dusty conditions. For use with flush operator.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Color"      , "db": "color"        },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "color"           : "Black",
+        "catalog_num"     : "315C245G01",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Red",
+        "catalog_num"     : "315C245G02",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Green",
+        "catalog_num"     : "315C245G03",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Gray",
+        "catalog_num"     : "315C245G04",
+        "price"           : 66.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Latching Attachment",
+    "description"         : "Cams half-shrouded operator down to “mid” position. Can be padlocked when down and is tamper-proof. (Not for use with make before break contact blocks.)",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "1470 797",
+        "price"           : 180.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Lever Operator",
+    "description"         : "Lever mounts on standard Oil- Tite center. Provides ease in glove operation, spring return to center.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "1764453",
+        "price"           : 475.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Extended Clamp Ring",
+    "description"         : "Serves as a full shroud for extended operator or as an extended shroud for flush operators.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "454D610H09",
+        "price"           : 170.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Maintained Contact Assembly",
+    "description"         : "Includes 1 Red and 1 Black operator, and 1 OT1A contact block.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "506C933G01",
+        "price"           : 696.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Selector Switch Safety Lock-offs",
+    "description"         : "2- or 3-Position Lock Left or Right</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "OT282",
+        "price"           : 188.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Selector Switch Safety Lock-offs",
+    "description"         : "3-Position Center Lock</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "OT28C1",
+        "price"           : 188.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators",
+    "name"                : "Selector Switch Safety Lock-offs",
+    "description"         : "Push Button Safety Cover</br></br>Not Stocked",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "catalog_num"     : "OT2PC",
+        "price"           : 160.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators (Caps & Contact Operator)",
+    "name"                : "Dust-Tight Caps",
+    "description"         : "Provides protection for unshrouded operator against very dusty conditions.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Color"      , "db": "color"        },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "color"           : "Red (514C Cap with Ring Only)",
+        "catalog_num"     : "1764 470",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Black (514C Cap with Ring Only)",
+        "catalog_num"     : "1764 469",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Green (514C Cap with Ring Only)",
+        "catalog_num"     : "29B7300G5",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Gray (514C Cap with Ring Only)",
+        "catalog_num"     : "29B7300G6",
+        "price"           : 66.00
+      },
+      {
+        "color"           : "Red (515C Cap with Operator)",
+        "catalog_num"     : "1764 471",
+        "price"           : 108.00
+      },
+      {
+        "color"           : "Black (515C Cap with Operator)",
+        "catalog_num"     : "1764 472",
+        "price"           : 108.00
+      },
+      {
+        "color"           : "Green (515C Cap with Operator)",
+        "catalog_num"     : "29B7300G7",
+        "price"           : 108.00
+      },
+      {
+        "color"           : "Gray (515C Cap with Operator)",
+        "catalog_num"     : "29B7300G8",
+        "price"           : 108.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 13,
+    "type"                : "Accessories for Extended Pushbutton Operators (Caps & Contact Operator)",
+    "name"                : "Momentary-Maintained Contact Operator, Panel Mounted Only",
+    "description"         : "Latch operator operates its own contact block, when adjacent unit is not depressed.",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "categories"          : [ { "user": "Description", "db": "description"  },
+                              { "user": "Color"      , "db": "color"        },
+                              { "user": "Catalog #"  , "db": "catalog_num"  },
+                              { "user": "Price"      , "db": "price"        } ],
+    "items"               : [
+      {
+        "color"           : "Black",
+        "catalog_num"     : "1720 093 (Includes contact block)",
+        "price"           : 206.00
+      }
+    ]
+  }
+
+]

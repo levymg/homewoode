@@ -1,0 +1,77 @@
+[
+  {
+    "product_category_id" : 4,
+    "type"                : "Operator Only",
+    "name"                : "Two-Position Half Stroke",
+    "description"         : "Spring Return",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "catalog_num" : "OT1M1",
+        "price"       : 144.00
+      },
+      {
+        "catalog_num" : "OT1M1Z",
+        "price"       : 144.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 4,
+    "type"                : "Complete Units",
+    "name"                : "Two-Position Half Stroke",
+    "description"         : "Spring Return",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "catalog_num" : "OT1M1C",
+        "price"       : 240.00
+      },
+      {
+        "catalog_num" : "OT1M1ZC",
+        "price"       : 240.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 4,
+    "type"                : "Complete Units",
+    "name"                : "Two-Position Full Stroke",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "catalog_num" : "OT1N1C",
+        "price"       : 288.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 4,
+    "type"                : "Complete Units",
+    "name"                : "Three-Position Half Stroke",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "catalog_num" : "OT1M8C",
+        "price"       : 240.00
+      }
+    ]
+  },
+  {
+    "product_category_id" : 4,
+    "type"                : "Complete Units",
+    "name"                : "Three-Position Full Stroke",
+    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
+    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "items"               : [
+      {
+        "catalog_num" : "OT1N8C",
+        "price"       : 288.00
+      }
+    ]
+  }
+]

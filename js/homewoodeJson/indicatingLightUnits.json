@@ -44,8 +44,8 @@
     "type"                : "Unit without Lens",
     "name"                : "Standard Full Voltage Type Light Units",
     "description"         : "Unit without lens - legend plate not included",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-sfull-otfc.jpg",
+    "img"                 : "images/products/ilu-sfull-otfc.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC, DC",
@@ -89,8 +89,8 @@
     "type"                : "Unit without Lens",
     "name"                : "Push-to-Test Light Units",
     "description"         : "Unit without lens - legend plate not included",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-ptt-ot3pf.jpg",
+    "img"                 : "images/products/ilu-ptt-ot3pf.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC",
@@ -174,7 +174,7 @@
       },
       {
         "voltage"         : "480/60",
-        "catalog_num"     : "OTTH2",
+        "catalog_num"     : "OTTH",
         "price"           : null
       },
       {
@@ -183,17 +183,17 @@
         "price"           : 252.00
       },
       {
-        "voltage"         : "120/25-50",
+        "voltage"         : "120/25/50",
         "catalog_num"     : "OTXF2",
         "price"           : 252.00
       },
       {
-        "voltage"         : "240/25-50",
+        "voltage"         : "240/25/50",
         "catalog_num"     : "OTXG2",
         "price"           : 252.00
       },
       {
-        "voltage"         : "480/25-50",
+        "voltage"         : "480/25/50",
         "catalog_num"     : "OTXH2",
         "price"           : 252.00
       }
@@ -214,7 +214,7 @@
       },
       {
         "voltage"         : "480/60",
-        "catalog_num"     : "OTTH3",
+        "catalog_num"     : "OTTH",
         "price"           : null
       },
       {
@@ -223,17 +223,17 @@
         "price"           : 252.00
       },
       {
-        "voltage"         : "120/25-50",
+        "voltage"         : "120/25/50",
         "catalog_num"     : "OTXF3",
         "price"           : 252.00
       },
       {
-        "voltage"         : "240/25-50",
+        "voltage"         : "240/25/50",
         "catalog_num"     : "OTXG3",
         "price"           : 252.00
       },
       {
-        "voltage"         : "480/25-50",
+        "voltage"         : "480/25/50",
         "catalog_num"     : "OTXH3",
         "price"           : 252.00
       }
@@ -254,7 +254,7 @@
       },
       {
         "voltage"         : "480/60",
-        "catalog_num"     : "OTTH4",
+        "catalog_num"     : "OTTH",
         "price"           : null
       },
       {
@@ -263,17 +263,17 @@
         "price"           : 252.00
       },
       {
-        "voltage"         : "120/25-50",
+        "voltage"         : "120/25/50",
         "catalog_num"     : "OTXF4",
         "price"           : 252.00
       },
       {
-        "voltage"         : "240/25-50",
+        "voltage"         : "240/25/50",
         "catalog_num"     : "OTXG4",
         "price"           : 252.00
       },
       {
-        "voltage"         : "480/25-50",
+        "voltage"         : "480/25/50",
         "catalog_num"     : "OTXH4",
         "price"           : 252.00
       }
@@ -303,17 +303,17 @@
         "price"           : 252.00
       },
       {
-        "voltage"         : "120/25-50",
+        "voltage"         : "120/25/50",
         "catalog_num"     : "OTXF5",
         "price"           : 252.00
       },
       {
-        "voltage"         : "240/25-50",
+        "voltage"         : "240/25/50",
         "catalog_num"     : "OTXG5",
         "price"           : 252.00
       },
       {
-        "voltage"         : "480/25-50",
+        "voltage"         : "480/25/50",
         "catalog_num"     : "OTXH5",
         "price"           : 252.00
       }
@@ -343,17 +343,17 @@
         "price"           : 252.00
       },
       {
-        "voltage"         : "120/25-50",
+        "voltage"         : "120/25/50",
         "catalog_num"     : "OTXF6",
         "price"           : 252.00
       },
       {
-        "voltage"         : "240/25-50",
+        "voltage"         : "240/25/50",
         "catalog_num"     : "OTXG6",
         "price"           : 252.00
       },
       {
-        "voltage"         : "480/25-50",
+        "voltage"         : "480/25/50",
         "catalog_num"     : "OTXH6",
         "price"           : 252.00
       }
@@ -364,8 +364,8 @@
     "type"                : "Units Complete with Lens",
     "name"                : "Standard Full Voltage Type Light Units - Clear",
     "description"         : "Unit complete with lens",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-ottf1.jpg",
+    "img"                 : "images/products/lg/ilu-ottf1.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC, DC",
@@ -444,8 +444,8 @@
     "type"                : "Units Complete with Lens",
     "name"                : "Standard Full Voltage Type Light Units - Green",
     "description"         : "Unit complete with lens",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-ottf3.jpg",
+    "img"                 : "images/products/lg/ilu-ottf3.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC, DC",
@@ -484,8 +484,8 @@
     "type"                : "Units Complete with Lens",
     "name"                : "Standard Full Voltage Type Light Units - Amber",
     "description"         : "Unit complete with lens",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-ottf4.jpg",
+    "img"                 : "images/products/lg/ilu-ottf4.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC, DC",
@@ -524,8 +524,8 @@
     "type"                : "Units Complete with Lens",
     "name"                : "Standard Full Voltage Type Light Units - Blue",
     "description"         : "Unit complete with lens",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/ilu-ottf5.jpg",
+    "img"                 : "images/products/lg/ilu-ottf5.jpg",
     "items"               : [
       {
         "voltage"         : "6/AC, DC",

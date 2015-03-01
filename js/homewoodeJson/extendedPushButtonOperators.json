@@ -149,8 +149,8 @@
     "type"                : "Extended Push Button Operator",
     "name"                : "Cylinder Lock - Key Removable All Positions",
     "description"         : "Operator only without contact block or legend plate (Cover or Box Mounting)",
-    "imgLg"               : "http://placehold.it/300x300&text=No+Picture",
-    "img"                 : "http://placehold.it/300x300&text=No+Picture",
+    "imgLg"               : "images/products/lg/extpb-cyl-ot1f8.jpg",
+    "img"                 : "images/products/extpb-cyl-ot1f8.jpg",
     "need_contact"        : true,
     "items"               : [
       {
